@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
+[![Resume Preview]([https://assets.startbootstrap.com/img/screenshots/themes/resume.png](http://localhost:8000/#page-top))](https://startbootstrap.github.io/startbootstrap-resume/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
 
